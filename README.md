@@ -1,2 +1,4 @@
 # Py-GUI-Calculator
-A gui py calculator only for personal use not for production.
+A GUI calculator made by python tkinter.
+Just open in vscode and run it.
+Make sure you have python 3 installed in your pc.
