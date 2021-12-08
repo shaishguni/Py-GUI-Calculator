@@ -4,5 +4,6 @@ A GUI calculator made by python tkinter.
 ## For running in computer 
 
 ```bash
-python 
+python main code/main.py
+
 ```
